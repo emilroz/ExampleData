@@ -1,0 +1,1 @@
+Images are cropped from Human cells example from http://www.cellprofiler.org/examples.shtml
